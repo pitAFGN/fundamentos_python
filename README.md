@@ -62,7 +62,7 @@ Descripcion: aca solo cambie algunas comillas de por comillas simples o apostrof
 seccion 2:
 lab 2 - " Literales de Python - Cadenas"
 
-![lab 1](image22.png)
+![lab 1](photos/image22.png)
 
 Descripcion: aca solo eh usado los separadores para crear la frase que es solicitada
 
