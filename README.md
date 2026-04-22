@@ -172,3 +172,23 @@ Ejercicio 15
 
 Pregunta: ¿Cuál es el resultado? ¿Por qué?
 R:// aca se hace de esta manera, potencia, luego con ese resultado de la potencia se hace la multiplicacion y con ese resultado se hace la division para PORFIN sumar y darnos el resultado final de 15
+
+seccion 4:
+
+lab 1 - "variables"
+
+![lab1](photos/lab1_variables.png);
+
+Descripcion: En este laboratorio se trabajo el uso basico de variables en python y pues aprendiendo a almacenar datos y utilizarlos en operaciones y melo.
+
+lab 2 - "convertidor simple"
+
+![lab2](photos/convertidor.png)
+
+Descripcion: En este laboratorio se aplicaron las variables para resolver un problema practico: convertir la unidad de medida entre millas y kilometros con operaciones asi bien faciles
+
+lab 3 - "Operadores y expresiones"
+
+![lab3](photos/operadores.png)
+
+Descripcion: En este laboratorio se trabajó con expresiones matemáticas más complejas en Python. Se tomó una fórmula algebraica y se transformó correctamente a código o bueno eso trate porque la verdad, esta fue la unica que se me complico de verdad y tuve que recurrir a ayudas externas pero logre entender su mayoria :)
